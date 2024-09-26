@@ -25,3 +25,4 @@ C:\Users\rohacekd\source\repos\NahodneCislo\NahodneCislo\obj\Debug\net8.0\refint
 C:\Users\rohacekd\source\repos\NahodneCislo\NahodneCislo\obj\Debug\net8.0\NahodneCislo.pdb
 C:\Users\rohacekd\source\repos\NahodneCislo\NahodneCislo\obj\Debug\net8.0\NahodneCislo.genruntimeconfig.cache
 C:\Users\rohacekd\source\repos\NahodneCislo\NahodneCislo\obj\Debug\net8.0\ref\NahodneCislo.dll
+C:\Users\rohacekd\source\repos\NahodneCislo\NahodneCislo\obj\Debug\net8.0\NahodneCislo.sourcelink.json
