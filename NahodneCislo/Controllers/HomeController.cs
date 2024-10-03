@@ -15,5 +15,11 @@ namespace NahodneCislo.Controllers
             ViewBag.Cislo = generator.VratCislo();
             return View();
         }
+        public IActionResult Umocni(int x)
+        {
+            Generator generator = new Generator();
+            ViewBag.Umocneno = generator.Umocni(x);
+            return View();
+        }
     }
 }
