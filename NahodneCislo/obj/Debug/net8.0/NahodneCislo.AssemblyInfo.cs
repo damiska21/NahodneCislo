@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NahodneCislo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7041a19cf165a4064bcee02bdb446aebb59ae22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acb0809e75f1de64bd4a61ede4576e48c27b5851")]
 [assembly: System.Reflection.AssemblyProductAttribute("NahodneCislo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NahodneCislo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

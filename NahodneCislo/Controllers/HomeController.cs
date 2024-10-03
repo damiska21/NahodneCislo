@@ -21,5 +21,10 @@ namespace NahodneCislo.Controllers
             ViewBag.Umocneno = generator.Umocni(x);
             return View();
         }
+        public IActionResult Secti(int x, int y)
+        {
+            ViewBag.Secteno = x + y;
+            return View();
+        }
     }
 }

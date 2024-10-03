@@ -11,20 +11,20 @@
       "RelativeMoniker": "D:0:0:{62C465CE-0E1A-40AC-AEE5-7791EC0C7C0E}|NahodneCislo\\NahodneCislo.csproj|solutionrelative:nahodnecislo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62C465CE-0E1A-40AC-AEE5-7791EC0C7C0E}|NahodneCislo\\NahodneCislo.csproj|c:\\users\\rohacekd\\source\\repos\\nahodnecislo\\nahodnecislo\\views\\home\\umocni.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62C465CE-0E1A-40AC-AEE5-7791EC0C7C0E}|NahodneCislo\\NahodneCislo.csproj|solutionrelative:nahodnecislo\\views\\home\\umocni.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{62C465CE-0E1A-40AC-AEE5-7791EC0C7C0E}|NahodneCislo\\NahodneCislo.csproj|c:\\users\\rohacekd\\source\\repos\\nahodnecislo\\nahodnecislo\\views\\home\\secti.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62C465CE-0E1A-40AC-AEE5-7791EC0C7C0E}|NahodneCislo\\NahodneCislo.csproj|solutionrelative:nahodnecislo\\views\\home\\secti.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62C465CE-0E1A-40AC-AEE5-7791EC0C7C0E}|NahodneCislo\\NahodneCislo.csproj|c:\\users\\rohacekd\\source\\repos\\nahodnecislo\\nahodnecislo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{62C465CE-0E1A-40AC-AEE5-7791EC0C7C0E}|NahodneCislo\\NahodneCislo.csproj|solutionrelative:nahodnecislo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{62C465CE-0E1A-40AC-AEE5-7791EC0C7C0E}|NahodneCislo\\NahodneCislo.csproj|c:\\users\\rohacekd\\source\\repos\\nahodnecislo\\nahodnecislo\\views\\home\\umocni.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62C465CE-0E1A-40AC-AEE5-7791EC0C7C0E}|NahodneCislo\\NahodneCislo.csproj|solutionrelative:nahodnecislo\\views\\home\\umocni.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62C465CE-0E1A-40AC-AEE5-7791EC0C7C0E}|NahodneCislo\\NahodneCislo.csproj|c:\\users\\rohacekd\\source\\repos\\nahodnecislo\\nahodnecislo\\models\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62C465CE-0E1A-40AC-AEE5-7791EC0C7C0E}|NahodneCislo\\NahodneCislo.csproj|solutionrelative:nahodnecislo\\models\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62C465CE-0E1A-40AC-AEE5-7791EC0C7C0E}|NahodneCislo\\NahodneCislo.csproj|c:\\users\\rohacekd\\source\\repos\\nahodnecislo\\nahodnecislo\\nahodnecislo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{62C465CE-0E1A-40AC-AEE5-7791EC0C7C0E}|NahodneCislo\\NahodneCislo.csproj|solutionrelative:nahodnecislo\\nahodnecislo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{62C465CE-0E1A-40AC-AEE5-7791EC0C7C0E}|NahodneCislo\\NahodneCislo.csproj|c:\\users\\rohacekd\\source\\repos\\nahodnecislo\\nahodnecislo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62C465CE-0E1A-40AC-AEE5-7791EC0C7C0E}|NahodneCislo\\NahodneCislo.csproj|solutionrelative:nahodnecislo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 624,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "secti.cshtml",
+              "DocumentMoniker": "C:\\Users\\rohacekd\\source\\repos\\NahodneCislo\\NahodneCislo\\Views\\Home\\secti.cshtml",
+              "RelativeDocumentMoniker": "NahodneCislo\\Views\\Home\\secti.cshtml",
+              "ToolTip": "C:\\Users\\rohacekd\\source\\repos\\NahodneCislo\\NahodneCislo\\Views\\Home\\secti.cshtml",
+              "RelativeToolTip": "NahodneCislo\\Views\\Home\\secti.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T07:58:54.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "umocni.cshtml",
               "DocumentMoniker": "C:\\Users\\rohacekd\\source\\repos\\NahodneCislo\\NahodneCislo\\Views\\Home\\umocni.cshtml",
               "RelativeDocumentMoniker": "NahodneCislo\\Views\\Home\\umocni.cshtml",
@@ -57,14 +70,14 @@
               "RelativeDocumentMoniker": "NahodneCislo\\Program.cs",
               "ToolTip": "C:\\Users\\rohacekd\\source\\repos\\NahodneCislo\\NahodneCislo\\Program.cs",
               "RelativeToolTip": "NahodneCislo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T07:11:01.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\rohacekd\\source\\repos\\NahodneCislo\\NahodneCislo\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "NahodneCislo\\Views\\Home\\Index.cshtml",
@@ -83,7 +96,7 @@
               "RelativeDocumentMoniker": "NahodneCislo\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\rohacekd\\source\\repos\\NahodneCislo\\NahodneCislo\\Controllers\\HomeController.cs",
               "RelativeToolTip": "NahodneCislo\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T08:31:53.327Z",
               "EditorCaption": ""
@@ -96,22 +109,9 @@
               "RelativeDocumentMoniker": "NahodneCislo\\Models\\Generator.cs",
               "ToolTip": "C:\\Users\\rohacekd\\source\\repos\\NahodneCislo\\NahodneCislo\\Models\\Generator.cs",
               "RelativeToolTip": "NahodneCislo\\Models\\Generator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T08:27:57.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NahodneCislo.csproj",
-              "DocumentMoniker": "C:\\Users\\rohacekd\\source\\repos\\NahodneCislo\\NahodneCislo\\NahodneCislo.csproj",
-              "RelativeDocumentMoniker": "NahodneCislo\\NahodneCislo.csproj",
-              "ToolTip": "C:\\Users\\rohacekd\\source\\repos\\NahodneCislo\\NahodneCislo\\NahodneCislo.csproj",
-              "RelativeToolTip": "NahodneCislo\\NahodneCislo.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-19T08:23:25.926Z",
               "EditorCaption": ""
             }
           ]

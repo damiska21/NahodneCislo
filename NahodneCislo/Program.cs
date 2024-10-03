@@ -4,5 +4,6 @@ var app = builder.Build();
 
 app.MapControllerRoute("default", "{controller=Home}/{action=Index}");
 app.MapControllerRoute("/umocni", "{controller=Home}/{action=Index}");
+app.MapControllerRoute("/secti", "{controller=Home}/{action=Index}");
 
 app.Run();
