@@ -17,8 +17,7 @@ namespace NahodneCislo.Controllers
         }
         public IActionResult Umocni(int x)
         {
-            Generator generator = new Generator();
-            ViewBag.Umocneno = generator.Umocni(x);
+            ViewBag.Umocneno = x*x;
             return View();
         }
         public IActionResult Secti(int x, int y)

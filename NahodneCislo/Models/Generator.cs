@@ -7,9 +7,5 @@
         {
             return random.Next(100);
         }
-        public int Umocni(int x)
-        {
-            return x * x;
-        }
     }
 }
